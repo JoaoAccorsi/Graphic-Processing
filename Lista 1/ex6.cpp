@@ -132,11 +132,8 @@ int main()
 
 		glBindVertexArray(VAO); // bind
 
-		glUniform4f(colorLoc, 1.0f, 0.0f, 1.0f, 1.0f); //enviando cor para variável uniform inputColor - Triângulo 2
+		glUniform4f(colorLoc, 1.0f, 0.0f, 1.0f, 1.0f); // Cor do círculo
 		glDrawArrays(GL_TRIANGLE_FAN, 0, nVertices);
-
-        glUniform4f(colorLoc, 1.0f, 1.0f, 1.0f, 1.0f); //enviando cor para variável uniform inputColor - Triângulo 2
-		glDrawArrays(GL_LINE_LOOP, 1, nVertices - 2);
 
 		glBindVertexArray(0); //Desconectando o buffer de geometria
 

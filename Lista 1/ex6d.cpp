@@ -78,7 +78,7 @@ int main()
 	#endif
 
 	// Criação da janela GLFW
-	GLFWwindow *window = glfwCreateWindow(WIDTH, HEIGHT, "Ex6c -- João Accorsi", nullptr, nullptr);
+	GLFWwindow *window = glfwCreateWindow(WIDTH, HEIGHT, "Ex6d -- João Accorsi", nullptr, nullptr);
 	glfwMakeContextCurrent(window);
 
 	// Fazendo o registro da função de callback para a janela GLFW
@@ -216,7 +216,7 @@ int createCircle (int nPoints, float radius){
     vertices.push_back(0.0); // Z
     
     // Calculo de x e y, e adiciona do array de pontos
-    for (int i = 0; i < nPoints - 10; i ++){
+    for (int i = 110; i < nPoints - 60; i ++){
 
         float x = radius * cos(angle);
         float y = radius * sin(angle);
