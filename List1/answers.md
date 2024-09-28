@@ -32,3 +32,7 @@
 <br><br>
 ## Exercice 6d
 ![Ex6d](image-9.png)
+
+<br><br>
+## Exercice 7
+![Ex7](image-10.png)

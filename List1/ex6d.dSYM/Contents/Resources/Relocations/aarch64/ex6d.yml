@@ -1,6 +1,6 @@
 ---
 triple:          'arm64-apple-darwin'
-binary-path:     '/Users/joaoaccorsi/Desktop/Atividades/Lista 1/ex6d'
+binary-path:     '/Users/joaoaccorsi/Desktop/Atividades/List1/ex6d'
 relocations:
   - { offsetInCU: 0x52, offset: 0x52, size: 0x8, addend: 0x0, symName: _vertexShaderSource, symObjAddr: 0x38A8, symBinAddr: 0x100010000, symSize: 0x0 }
   - { offsetInCU: 0x7C, offset: 0x7C, size: 0x8, addend: 0x0, symName: _fragmentShaderSource, symObjAddr: 0x38B0, symBinAddr: 0x100010008, symSize: 0x0 }
