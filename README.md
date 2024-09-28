@@ -8,3 +8,7 @@
 # Objective
 
 This repository aims to share the projects developed under Graphic Processing Class build in C++.
+
+## List 1
+
+The implementations together with the awnser to the exercices can be found in [./List1/answers.md](./List1/answers.md).
