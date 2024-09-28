@@ -1,38 +1,38 @@
-## Exercice 5a
+## Exercise 5a
 ![Ex5a](image-1.png)
 
 <br><br>
-## Exercice 5b
+## Exercise 5b
 ![Ex5b](image-2.png)
 
 <br><br>
-## Exercice 5c
+## Exercise 5c
 ![Ex5c](image-3.png)
 
 <br><br>
-## Exercice 5d
+## Exercise 5d
 ![Ex5d](image-4.png)
 
 <br><br>
-## Exercice 6
+## Exercise 6
 ![Ex6](image-5.png)
 
 <br><br>
-## Exercice 6a
+## Exercise 6a
 ![Ex6a](image-6.png)
 
 <br><br>
-## Exercice 6b
+## Exercise 6b
 ![Ex6b](image-7.png)
 
 <br><br>
-## Exercice 6c
+## Exercise 6c
 ![Ex6c](image-8.png)
 
 <br><br>
-## Exercice 6d
+## Exercise 6d
 ![Ex6d](image-9.png)
 
 <br><br>
-## Exercice 7
+## Exercise 7
 ![Ex7](image-10.png)
