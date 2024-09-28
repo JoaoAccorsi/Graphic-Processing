@@ -36,3 +36,7 @@
 <br><br>
 ## Exercise 7
 ![Ex7](image-10.png)
+
+<br><br>
+## Exercise 8
+![Ex8](image-11.png)
