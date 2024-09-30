@@ -40,3 +40,7 @@
 <br><br>
 ## Exercise 8
 ![Ex8](image-11.png)
+
+<br><br>
+## Exercise 9
+![Ex9](image-12.png)

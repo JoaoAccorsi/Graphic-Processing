@@ -374,8 +374,8 @@ int setupA()
         // Reta horizontal central
         0.0f,  0.0f, 0.0f,    
         0.35f,  0.0f, 0.0f, 
-
-        // til
+S
+        // tiu ~
         0.05f,  0.3f, 0.0f,    
         0.30f,  0.3f, 0.0f, 
 
